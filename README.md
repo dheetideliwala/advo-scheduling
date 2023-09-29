@@ -1,6 +1,6 @@
 Devils' Advocates Scheduling
 
-I created two versions of using tour guide data from welcome2college.com to schedule them for 100+ tours monthly. This is used in AppScripts through Google Sheets.
+I created two versions of using tour guide data from welcome2college.com to schedule 100+ tour guides for 100+ tours monthly. This is used in AppScripts through Google Sheets.
 
 The first method includes TimeAvailability.js & TimeScheduling.js, where the input data is in formats of available time slots.
 
