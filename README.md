@@ -2,7 +2,7 @@
 **Purpose:** This project includes two scripts with different input types from Welcome2College.com. I created and used both versions during the 2022-2023 academic year to schedule over 100 tour guides for over 100 tours monthly. 
 
 ## ShiftScheduling.js
-**Input:** guide selected shifts__
+**Input:** guide selected shifts <br />
 ![Sample Input from w2c](/README-images/Input.png)
 
 ### Setup
