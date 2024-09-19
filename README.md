@@ -17,7 +17,7 @@ The `New Month` button resets the dashboard for the month, clearing all tour cou
 ### Scheduling Process
 1. Copy the input into the tab corresponding to the correct week.
 2. In the cell to the right of each tour date for the week, enter the number of tour guides needed.
-3. Click the `Schedule Guides` button. This will select guides for all the tours in the week. Selected tour guides will be highlighted in green and have an X placed next to their name.
+3. Click the `Schedule Guides` button. This will select guides for all the tours in the week. Selected tour guides will be highlighted in green and have an X placed next to their name.<br />
 ![Scheduled Guides Sample](/README-images/Tour1.png)
 ![Scheduled Guides Sample](/README-images/Tour2.png)
 4. The Dashboard will automatically be updated with tour counts.
